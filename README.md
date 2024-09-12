@@ -1,12 +1,12 @@
-👋 Hi, I’m @AnasOudadsse
-👀 I’m interested in Full-Stack Development, UI/UX Design, and building innovative web apps.
-🌱 I’m currently learning Node.js, Web3, and advanced React.js.
-💞️ I’m looking to collaborate on open-source projects and web development teams.
-📫 How to reach me: anas.oudadsse1@gmail.com | Website
-😄 Pronouns: He/Him
-⚡ Fun fact: I co-founded a startup while still in school!
+<h1 align="center">Hi 👋, I’m Anas Oudadsse</h1> <p align="center"> <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png" width="350" /> </p> <h3 align="center">Full-Stack Developer | UI/UX Designer</h3>
+🔭 I’m currently working on Blood Bank Management Application
 
-<!---
-AnasOudadsse/AnasOudadsse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning Node.js, Web3, and Advanced React.js
+
+👨‍💻 All of my projects are available at https://github.com/AnasOudadsse
+
+💬 Ask me about JavaScript, React, Laravel, or UI/UX Design
+
+📫 How to reach me: anas.oudadsse1@gmail.com | Website
+
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/anas-oudadsse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-oudadsse" height="30" width="40" /></a> <a href="https://github.com/AnasOudadsse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anas-oudadsse" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p> <h3 align="left">Projects:</h3> <ol> <li> Blood Bank Management Application: <ul> <li>Developed management functionalities for blood donors, stocks, and hospitals</li> <li>Technologies: React, Tailwind CSS, Laravel, MySQL</li> </ul> </li> <li> UNIX Command Interpreter: <ul> <li>Designed and built a custom command-line interpreter using C</li> <li>Technologies: C, Linux</li> </ul> </li> <li> My Coach (Co-founder & Technical Lead): <ul> <li>Developed landing page using React.js, optimized for UX</li> <li>Supervised technical decisions and managed web infrastructure</li> <li>Technologies: React.js, Tailwind CSS</li> </ul> </li> <li> UI/UX Design Projects: <ul> <li>Designed complete UI/UX for web platforms using Figma</li> <li>Integrated designs into responsive web interfaces</li> <li>Technologies: Figma, React.js</li> </ul> </li> </ol>
