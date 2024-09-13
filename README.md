@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I’m Anas Oudadsse</h1> <p align="center"> <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png" width="350" /> </p> <h3 align="center">Full-Stack Developer | UI/UX Designer</h3>
-🔭 I’m currently working on Blood Bank Management Application
+
+🔭 I’m currently working on My-Coach app
 
 🌱 I’m currently learning Node.js, Web3, and Advanced React.js
 
